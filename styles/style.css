@@ -40,9 +40,11 @@
   color: #2f80ed;
   text-decoration: none;
 }
-.header__imades{
+.logo{
   width: 228px;
   height: 32px;
+}
+.header__imades{
   margin-top: 30px;
   padding-left: 64px;
   position: absolute;
@@ -303,8 +305,6 @@
 }
 .logo_place_footer{
   background-image: url('/images/logo_place_footer.svg');
-  width: 228px;
-  height: 32px;
 }
 .footer__column-heading {
   line-height: 30px;
