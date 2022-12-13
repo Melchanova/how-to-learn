@@ -2,7 +2,10 @@
     width: 515px;
     height: 316px;
     overflow: hidden;
-  }
-  .video__frame:nth-child(1) {
+    border: none;
     margin-right: 20px;
+  }
+  .video__iframe:last-child {
+    margin: 0;
+    padding: 0;
   }

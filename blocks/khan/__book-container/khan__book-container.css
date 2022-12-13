@@ -2,4 +2,6 @@
     margin-top: 68px;
     display: flex;
     flex-direction: row;
+    /*justify-content: baseline;*/
+    align-items: flex-start;
     }

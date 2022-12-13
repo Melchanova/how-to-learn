@@ -6,5 +6,6 @@
     font-size: 24px;
     font-weight: normal;
     color: white;
-    z-index: 1;
+    z-index: 2;
+    position: relative;
   }
