@@ -29,7 +29,7 @@
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
-@import url(../blocks/footer/_content/_copyright/footer__column_content_copyright.css);
+@import url(../blocks/footer/__column/_content/_copyright/footer__column_content_copyright.css);
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
